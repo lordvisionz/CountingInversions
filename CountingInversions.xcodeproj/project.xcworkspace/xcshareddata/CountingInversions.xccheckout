@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CCD125D6-CCF1-4D5C-852D-4FAB606BC066</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CountingInversions</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C72184915F511EA387468F53AFD70EAE372B59ED</key>
+		<string>https://github.com/lordvisionz/CountingInversions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CountingInversions.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C72184915F511EA387468F53AFD70EAE372B59ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lordvisionz/CountingInversions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C72184915F511EA387468F53AFD70EAE372B59ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C72184915F511EA387468F53AFD70EAE372B59ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CountingInversions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
